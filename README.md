@@ -1,8 +1,4 @@
-<center>
-
-![LL2](assert/Logo.png)
-
-# LiteLoaderBDS v2 Documentation
+# ![LL2](.\\assert\\Logo.png) LiteLoaderBDS v2 Documentation
 
 Forked from [LiteLDev/liteloaderbds-documentation](https://github.com/LiteLDev/liteloaderbds-documentation)
 
@@ -29,5 +25,3 @@ LegacyScriptEngine (LSE):
 [Document](https://lse.liteldev.com/)
 
 [Github](https://github.com/LiteLDev/LegacyScriptEngine)
-
-</center>
