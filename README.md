@@ -1,4 +1,4 @@
-# ![LL2](.\\assert\\Logo.png) LiteLoaderBDS v2 Documentation
+# ![LL2](/assets/Logo.png) LiteLoaderBDS v2 Documentation
 
 Forked from [LiteLDev/liteloaderbds-documentation](https://github.com/LiteLDev/liteloaderbds-documentation)
 
